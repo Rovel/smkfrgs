@@ -4,4 +4,4 @@ This projetct used the [DALL-E](https://openai.com/blog/dall-e/) project to crea
 
 ### The Collection
 
-- [SMKFRGS#1](https://rovel.github.io/smkfrgs/collections/#1/1.html).
+- [SMKFRGS#1](https://opensea.io/collection/smkfrgs).
